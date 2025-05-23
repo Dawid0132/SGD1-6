@@ -21,3 +21,11 @@ https://github.com/user-attachments/assets/97220cf9-c0ff-4289-b487-88c031ad1f54
 * Kod źródłowy
 
 <img width="724" alt="Zrzut ekranu 2025-05-23 o 16 31 17" src="https://github.com/user-attachments/assets/4552596f-e5ae-4a81-ba1b-428876c094b5" />
+
+## GemGem
+* Podgląd
+* Kod źródłowy
+
+## SlidePuzzle
+* Podgląd
+* Kod źródłowy
