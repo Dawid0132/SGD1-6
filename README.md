@@ -1,5 +1,12 @@
 # SGD1-6
 
+* [CatAnimation](#CatAnimation)
+* [Worm](#Worm)
+* [GemGem](#GemGem)
+* [SlidePuzzle](#SlidePuzzle)
+* [StarPusher](#StarPusher)
+* [InksPills](#InksPills)
+
 ## CatAnimation
 * Podgląd
 
